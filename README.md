@@ -19,8 +19,7 @@
 
 <div align="center" markdown="1">
 
-**_Learn. Code. Enjoy. Repeat :recycle::rocket:_**  
-*Be passionate*
+**_Learn. Code. Enjoy. Repeat :recycle::rocket:_**  *and Be passionate*
 
 </div>
 
