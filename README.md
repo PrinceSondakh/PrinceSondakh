@@ -16,11 +16,16 @@
 
 - ⚡ Fun fact **I want to be a Java wizard**
 
+</div>
+
 ## :chart_with_upwards_trend: Account Stats
+
 <div align="center" markdown="1">
+
 [![Github Years Old](https://badges.pufler.dev/years/PrinceSondakh?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/PrinceSondakh)
 [![Github Visits](https://badges.pufler.dev/visits/PrinceSondakh/PrinceSondakh?style=flat-square&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Visitors%20%20%20%20.&cacheSeconds=30)](https://github.com/PrinceSondakh)
 [![Github Profile Views](https://komarev.com/ghpvc/?username=PrinceSondakh&label=Profile%20views&color=blue&style=flat-square) ](https://github.com/PrinceSondakh)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrinceSondakh&theme=dracula&column=4&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceSondakh&theme=dracula&count_private=true&include_all_commits=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)    
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSondakh&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)  
