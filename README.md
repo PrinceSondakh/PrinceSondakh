@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate programmer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://wallpapercave.com/uwp/uwp1719087.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesondakh&label=Profile%20views&color=0e75b6&style=flat" alt="princesondakh" /> </p>
