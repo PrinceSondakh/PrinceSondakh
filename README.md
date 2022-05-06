@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="300" src="https://wallpapercave.com/uwp/uwp1719087.png">
+<img align="right" alt="Asuka" width="280" src="https://wallpapercave.com/uwp/uwp1719087.png">
 
 - 🔭 I’m currently working on **Investasi Leher Keatas**
 
@@ -31,6 +31,8 @@
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSondakh&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)  
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=PrinceSondakh&theme=dracula&area=true&hide_border=false&bg_color=282a36&color=ff6e96&point=2ca5e0&locale=en)    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrinceSondakh&theme=dracula&hide_border=false&=dracula&fire=2ca5e0&border=2ca5e0&sideLabels=2ca5e0&locale=en)   
+
+<div align="left" markdown="1">
 
 ## :hammer_and_wrench: Technologies & Tools
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
