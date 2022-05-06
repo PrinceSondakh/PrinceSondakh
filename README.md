@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I want to be a Java wizard**
 
+
 <div align="center" markdown="1">
 
 **_Learn. Code. Enjoy. Repeat :recycle::rocket:_**  
