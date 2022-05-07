@@ -6,13 +6,9 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, SQL**
 
-- 📝 I regularly write articles on [https://twitter.com/princesondakh](https://twitter.com/princesondakh)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **princexlsondakh@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/prince-sondakh/](https://www.linkedin.com/in/prince-sondakh/)
 
 - ⚡ Fun fact **I want to be a Java wizard**
 
