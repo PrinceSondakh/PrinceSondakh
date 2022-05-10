@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Indonesia :indonesia:</h3>
 <img align="right" alt="Asuka" width="280" src="https://wallpapercave.com/uwp/uwp1719087.png">
 
-- 🔭 I’m currently working on **InvestasiLeher Keatas**
+- 🔭 I’m currently working on **Investasi Leher Keatas**
 
 - 🌱 I’m currently learning **Java, JavaScript, SQL**
 
