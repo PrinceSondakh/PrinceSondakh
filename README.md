@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **ILK**
 
-- 🌱 I’m currently learning **Java, JavaScript, SQL**
+<!-- - 🌱 I’m currently learning **Java, JavaScript, SQL**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** -->
 
 - 📫 How to reach me **https://linktr.ee/princesondakh**
 
