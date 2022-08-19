@@ -33,7 +33,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrinceSondakh&theme=dracula&column=4&margin-w=15&margin-h=10&no-bg=false&no-frame=false)    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceSondakh&theme=dracula&count_private=true&include_all_commits=true&card_width=446&show_icons=true&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)    
-![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSondakh&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en)  
+<!-- ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSondakh&theme=dracula&layout=compact&count_private=true&langs_count=10&card_width=446&icon_color=2ca5e0&hide_border=false&border_color=2ca5e0&disable_animations=false&locale=en) -->
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=PrinceSondakh&theme=dracula&area=true&hide_border=false&bg_color=282a36&color=ff6e96&point=2ca5e0&locale=en)    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrinceSondakh&theme=dracula&hide_border=false&=dracula&fire=2ca5e0&border=2ca5e0&sideLabels=2ca5e0&locale=en)   
 
