@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java** -->
 
-- 📫 How to reach me **https://linktr.ee/princesondakh**
+<!-- - 📫 How to reach me **https://linktr.ee/princesondakh**-->
 
 - ⚡ Fun fact **I want to be a Java wizard**
 
