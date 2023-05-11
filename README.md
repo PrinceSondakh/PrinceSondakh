@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Software Engineer from Indonesia :indonesia:</h3>
 <!-- <img align="right" alt="Asuka" width="280" src="https://wallpapercave.com/uwp/uwp1719087.png"> -->
 
-- 🔭 I’m currently working on **ILK**
+- 🔭 I’m currently working on **ILK(Investasi Leher Keatas)**
 
-<!-- - 🌱 I’m currently learning **Java, JavaScript, SQL**
+<!-- - 🌱 I’m currently learning **APA AJA, but I know java a bit**
 
 - 💬 Ask me about **Java** -->
 
 <!-- - 📫 How to reach me **https://linktr.ee/princesondakh**-->
 
-- ⚡ Fun fact **I want to be a Java wizard**
+- ⚡ Fun fact **FAANG will Hired me later**
 
 
 
