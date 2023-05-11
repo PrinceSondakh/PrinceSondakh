@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia :indonesia:</h3>
+<h1 align="center">Hi 👋, I'm Prince , I'm from Indonesia :indonesia:</h1>
+<h3 align="center">In my free time sometimes I do code</h3>
 <!-- <img align="right" alt="Asuka" width="280" src="https://wallpapercave.com/uwp/uwp1719087.png"> -->
 
-- 🔭 I’m currently working on **ILK(Investasi Leher Keatas)**
+- 🔭 I’m currently working on **ILK**
 
-<!-- - 🌱 I’m currently learning **APA AJA, but I know java a bit**
+<!-- - 🌱 I’m currently learning **APA AJA, but I know java a bit, currently I play alot with ChatGPT**
 
-- 💬 Ask me about **Java** -->
+- 💬 You can ask me about **Java** we can learn together-->
 
 <!-- - 📫 How to reach me **https://linktr.ee/princesondakh**-->
 
