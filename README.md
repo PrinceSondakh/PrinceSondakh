@@ -46,7 +46,7 @@
 <p align="center">
 <a href="https://twitter.com/princesondakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princesondakh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prince-sondakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-sondakh" height="30" width="40" /></a>
-<a href="https://fb.com/prince.gi.sondakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.gi.sondakh" height="30" width="40" /></a>
+<a href="https://fb.com/prince.gi.sondakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pgisondakh" height="30" width="40" /></a>
 <a href="https://instagram.com/princesondakh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princesondakh8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princexlsondakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princexlsondakh" height="30" width="40" /></a>
 </p>
