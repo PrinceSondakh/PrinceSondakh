@@ -10,7 +10,7 @@
 
 <!-- - 📫 How to reach me **https://linktr.ee/princesondakh**-->
 
-- ⚡ Fun fact **FAANG will Hired me later**
+- ⚡ Fun fact **I'm Hoshiyomi** Suichan waaa~~
 
 
 
