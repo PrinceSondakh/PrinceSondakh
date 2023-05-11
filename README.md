@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince , I'm from Indonesia :indonesia:</h1>
-<h3 align="center">In my free time sometimes I do code</h3>
+<h3 align="center">In my free time sometimes I do code for multi-general learning purpose</h3>
 <!-- <img align="right" alt="Asuka" width="280" src="https://wallpapercave.com/uwp/uwp1719087.png"> -->
 
 - 🔭 I’m currently working on **ILK**
